@@ -11,6 +11,8 @@ Donate link: https://contactform7.com/donate/
 
 A straight-forward multilingual plugin. No more double-digit custom DB tables or hidden HTML comments that could cause you headaches later on.
 
+Fork created by axelhuizinga
+
 == Description ==
 
 https://ideasilo.wordpress.com/bogo/
